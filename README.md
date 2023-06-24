@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Thanh Huy Doan</h1>
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400"  border-radius="10px" src="https://miro.medium.com/v2/resize:fit:720/1*_wj0oE7Wjy909b-TGD02dA.gif">
+<img align="right" alt="Coding" width="400"  border-radius="50%" src="https://miro.medium.com/v2/resize:fit:720/1*_wj0oE7Wjy909b-TGD02dA.gif">
 
 <h3 align="left">🌱 I’m currently learning java and android development
 </h3>
