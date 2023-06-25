@@ -7,7 +7,7 @@
 </h3>
 <h3 align="left">🔭 I’m currently studying at Saigon university
 </h3>
-<h3 align="left">🤔 I’m looking for an internship
+<h3 align="left">🤔 I’m looking for an Android developer internship
 </h3>
 
 <p align="left"></p>
