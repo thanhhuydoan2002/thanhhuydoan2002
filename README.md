@@ -3,11 +3,11 @@
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400"  border-radius=10px src="https://miro.medium.com/v2/resize:fit:720/1*_wj0oE7Wjy909b-TGD02dA.gif">
 
-<h3 align="left">🌱 I’m currently learning java and android development
+<h3 align="left">🌱 I’m currently learning flutter and android native (Kotlin) development
 </h3>
 <h3 align="left">🔭 I’m currently studying at Saigon university
 </h3>
-<h3 align="left">🤔 I’m looking for an Android developer internship
+<h3 align="left">🤔 I’m looking for an Android or Mobile developer internship
 </h3>
 
 <p align="left"></p>
